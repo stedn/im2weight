@@ -182,7 +182,7 @@ pd.to_numeric(df_ev['truth']).std()
 
 # from googleplaces import GooglePlaces, types, lang
 
-# YOUR_API_KEY = 'AIzaSyA4FeWD2cp4x_RZwbkO2K5jOw22bx1RfYQ'
+# YOUR_API_KEY = 'removed key'
 
 # google_places = GooglePlaces(YOUR_API_KEY)
 
